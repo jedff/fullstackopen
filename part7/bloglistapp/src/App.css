@@ -1,0 +1,42 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-size: 18px;
+}
+
+a {
+  text-decoration: none;
+}
+
+.container {
+  display: flex;
+  flex-flow: column;
+  gap: 2em;
+}
+.bloglist,
+.comments,
+.blog {
+  display: flex;
+  flex-flow: column;
+  gap: 1em;
+}
+.bloglikes {
+  display: flex;
+  align-items: center;
+  gap: .5em;
+}
+Form div {
+  display: flex;
+  flex-flow: column;
+  gap: .5em;
+  width: 50%;
+}
+
+Button {
+  width: -moz-fit-content;
+  width:fit-content;
+}
