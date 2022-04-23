@@ -22,6 +22,18 @@ Part 6: [State management with Redux](https://github.com/jedff/fullstackopen/tre
 
 Part 7: [React router, custom hooks, styling app with CSS](https://github.com/jedff/fullstackopen/tree/main/part7)
 
+Part 8: GraphQL
+
+Part 9: TypeScript
+
+Part 10: React Native
+
+Part 11: CI/CD
+
+Part 12: Containers
+
+Part 13: Using relational databases
+
 ## This is Full Stack -challenge
 
 #fullstackchallenge
