@@ -28,4 +28,4 @@ Part 7: [React router, custom hooks, styling app with CSS](https://github.com/je
 
 [https://fullstackopen.com/en](https://fullstackopen.com/en)
 
-The course webpage is designed and created by Houston inc, who have also audited the content of the course material. 
+The University of Helsinki and Houston Inc. have partnered up to challenge both individual developers and companies alike to learn and build upon their expertise in true Full Stack spirit.
